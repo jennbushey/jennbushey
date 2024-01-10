@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on many self-guided projects.
+- 🚀 I’m currently learning Machine Learning, MatLab, and Principles of software dependability techniques, and techniques to improve and predict software reliability.
+- 🌱 I’m currently learning React in my free time.
+
+
 <!--
 **jennbushey/jennbushey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
