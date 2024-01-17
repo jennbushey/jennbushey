@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on many self-guided projects.
-- 🚀 I’m currently learning Machine Learning, MatLab, and Principles of software dependability techniques, and techniques to improve and predict software reliability.
-- 🌱 I’m currently learning React in my free time.
+APEGA licensed professional engineer transitioning to a career in software engineering, currently pursuing a Master's in Software Engineering at the University of Calgary.
 
 
 <!--
