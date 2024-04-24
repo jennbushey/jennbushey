@@ -12,12 +12,21 @@ In addition to my technical skills, I bring a collaborative mindset and excellen
 - Programming Languages: C++, Java, Python, SQL, MATLAB, HTML, CSS, JavaScript
 - Libraries and Frameworks: React.js, Node.js/Express, scikit-learn, pandas, matplotlib, seaborn, PySpark, GraphQL/Apollo Client, React Native, Bootstrap, TailwindCSS
 - Modeling and AI: TensorFlow, PyTorch
-- Testing: JUnit, Selenium
+- Testing: JUnit, Selenium, EclEmma, Pitest, C-SFRAT
 - Tools/Environment: Unified Modeling Language (UML), Anaconda, GPU cluster with job scheduling using Slurm, IDEs (Eclipse, VSCode, PyCharm), Postman, PowerBI
 - Version Control: Git / Github
-- Databases: MySQL, MongoDB
+- Databases: MySQL
 
-Let's connect and explore how my skills and experiences align with the goals of your team. I look forward to discussing how I can contribute to your projects and learn from your talented team members.
+Let's connect and explore how my skills and experiences align with the goals of your team. I look forward to discussing how I can contribute to your projects and learn from your talented team.
+
+Repos:
+- [AI / Machine Learning / Deep Learning Projects](https://github.com/jennbushey/ML-projects)
+- [Big Data Projects](https://github.com/jennbushey/BigData-projects)
+- [MATLAB Projects](https://github.com/jennbushey/MATLAB-projects)
+- [Databases](https://github.com/jennbushey/SQL-projects)
+- [Java Projects](https://github.com/jennbushey/Java-projects)
+- [Software Architecture Projects](https://github.com/jennbushey/Architecture-projects)
+- [Software Testing](https://github.com/jennbushey/Testing-projects)
 
 <!--
 **jennbushey/jennbushey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
