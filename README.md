@@ -21,7 +21,7 @@ Let's connect and explore how my skills and experiences align with the goals of 
 
 Repos:
 - [AI / Machine Learning / Deep Learning Projects](https://github.com/jennbushey/ML-projects)
-- [Big Data Projects](https://github.com/jennbushey/BigData-projects)
+- [Data Projects](https://github.com/jennbushey/BigData-projects)
 - [MATLAB Projects](https://github.com/jennbushey/MATLAB-projects)
 - [Databases](https://github.com/jennbushey/SQL-projects)
 - [Java Projects](https://github.com/jennbushey/Java-projects)
