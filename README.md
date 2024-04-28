@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-I'm Jenn Bushey, a versatile engineer transitioning from a successful 16-year career in civil engineering to the dynamic field of software engineering. I have recently completed a Master's degree in Software Engineering at the University of Calgary, with a strong interest in machine learning and big data. I'm eager to leverage my engineering expertise and academic knowledge in a software development role focused on these areas.
+I'm Jenn, a versatile engineer transitioning from a successful 16-year career in civil engineering to the dynamic field of software engineering. I have recently completed a Master's degree in Software Engineering at the University of Calgary, with a strong interest in machine learning and big data. I'm eager to leverage my engineering expertise and academic knowledge in a software development role focused on these areas.
 
 My academic background includes a Bachelor's degree in Civil Engineering and a Master's degree in Electrical and Computer Engineering, specializing in Software Engineering. Throughout my academic and professional journey, I have developed proficiency in a wide range of programming languages, including C++, Java, Python, and SQL, and gained hands-on experience with various libraries, frameworks, and tools such as React.js, Node.js/Express, TensorFlow, and PySpark.
 
@@ -21,7 +21,7 @@ Let's connect and explore how my skills and experiences align with the goals of 
 
 Repos:
 - [AI / Machine Learning / Deep Learning Projects](https://github.com/jennbushey/ML-projects)
-- [Data Projects](https://github.com/jennbushey/BigData-projects)
+- [Big Data Projects](https://github.com/jennbushey/BigData-projects)
 - [MATLAB Projects](https://github.com/jennbushey/MATLAB-projects)
 - [Databases](https://github.com/jennbushey/SQL-projects)
 - [Java Projects](https://github.com/jennbushey/Java-projects)
