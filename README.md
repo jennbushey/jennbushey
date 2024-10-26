@@ -1,12 +1,10 @@
 ### Hello! 👋
 
-I'm Jenn, a versatile engineer transitioning from a successful 16-year career in civil engineering to the dynamic field of software engineering. I have recently completed a Master's degree in Software Engineering at the University of Calgary, with a strong interest in machine learning and big data. I'm eager to leverage my engineering expertise and academic knowledge in a software development role focused on these areas.
-
-My academic background includes a Bachelor's degree in Civil Engineering and a Master's degree in Electrical and Computer Engineering, specializing in Software Engineering. Throughout my academic and professional journey, I have developed proficiency in a wide range of programming languages, including C++, Java, Python, and SQL, and gained hands-on experience with various libraries, frameworks, and tools such as React.js, Node.js/Express, TensorFlow, and PySpark.
+I'm Jenn, my academic background includes a Bachelor's degree in Civil Engineering and a Master's degree in Electrical and Computer Engineering, specializing in Software Engineering. Throughout my academic and professional journey, I have developed proficiency in a wide range of programming languages, including C++, Java, Python, and SQL, and gained hands-on experience with various libraries, frameworks, and tools such as React.js, Node.js/Express, TensorFlow, and PySpark.
 
 I am a licensed Professional Engineer registered with APEGA, which has further strengthened my commitment to excellence in engineering. With a strong foundation in software engineering principles, I excel in designing and implementing complex projects. I have practical experience in applying design patterns, algorithms, and Big O notation to solve challenging problems efficiently.
 
-In addition to my technical skills, I bring a collaborative mindset and excellent interpersonal skills honed through years of working in diverse teams. I am committed to delivering high-quality results and thrive in fast-paced, dynamic environments. As I embark on this new chapter in software engineering, I am excited about the opportunity to contribute my skills and passion for technology, particularly in machine learning and big data, to innovative projects at your organization.
+In addition to my technical skills, I bring a collaborative mindset and excellent interpersonal skills honed through years of working in diverse teams. I am committed to delivering high-quality results and thrive in fast-paced, dynamic environments. I am excited about the opportunity to contribute my skills and passion for technology, particularly in machine learning and big data, to innovative projects at your organization.
 
 **Skills:**
 - Programming Languages: C++, Java, Python, SQL, MATLAB, HTML, CSS, JavaScript
