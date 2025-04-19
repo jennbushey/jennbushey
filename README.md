@@ -1,13 +1,13 @@
 ### Hello! 👋
 
-I'm Jenn, my academic background includes a Bachelor's degree in Civil Engineering and a Master's degree in Electrical and Computer Engineering, specializing in Software Engineering. Throughout my academic and professional journey, I have developed proficiency in a wide range of programming languages, including C++, Java, Python, and SQL, and gained hands-on experience with various libraries, frameworks, and tools such as React.js, Node.js/Express, TensorFlow, and PySpark.
+I'm Jenn, my academic background includes a Bachelor's degree in Civil Engineering and a Master's degree in Electrical and Computer Engineering, specializing in Software Engineering. Throughout my academic and professional journey, I have developed proficiency in a wide range of programming languages, including LISP, Java, Python, and SQL.
 
-I am a licensed Professional Engineer registered with APEGA, which has further strengthened my commitment to excellence in engineering. With a strong foundation in software engineering principles, I excel in designing and implementing complex projects. I have practical experience in applying design patterns, algorithms, and Big O notation to solve challenging problems efficiently.
+I am a licensed Professional Engineer registered with APEGA, which has further strengthened my commitment to excellence in engineering. With a strong foundation in software engineering principles, I excel in designing and implementing complex projects. 
 
 In addition to my technical skills, I bring a collaborative mindset and excellent interpersonal skills honed through years of working in diverse teams. I am committed to delivering high-quality results and thrive in fast-paced, dynamic environments. I am excited about the opportunity to contribute my skills and passion for technology, particularly in machine learning and big data, to innovative projects at your organization.
 
 **Skills:**
-- Programming Languages: C++, Java, Python, SQL, MATLAB, HTML, CSS, JavaScript
+- Programming Languages: C++, Java, Python, SQL, MATLAB, HTML, CSS, JavaScript, LISP
 - Libraries and Frameworks: React.js, Node.js/Express, scikit-learn, pandas, matplotlib, seaborn, PySpark, GraphQL/Apollo Client, React Native, Bootstrap, TailwindCSS
 - Modeling and AI: TensorFlow, PyTorch
 - Testing: JUnit, Selenium, EclEmma, Pitest, C-SFRAT
